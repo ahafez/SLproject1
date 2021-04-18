@@ -8,3 +8,4 @@ forth line - from local
 8th commit  - remote
 9th commit  - remote
 10th commit - remote
+1st local 
