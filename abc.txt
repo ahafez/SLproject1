@@ -3,3 +3,4 @@ second line in abc.txt file
 Third line
 forth line - from local
 5th line-fetch test
+6th line local
