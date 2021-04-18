@@ -1,2 +1,3 @@
 abc new file
 second line in abc.txt file
+Third line
