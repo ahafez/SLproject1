@@ -5,3 +5,4 @@ forth line - from local
 5th line-fetch test
 6th line local
 7th line on master/remote
+8th commit remote
